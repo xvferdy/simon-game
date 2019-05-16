@@ -17,7 +17,7 @@ Game ini dibuat untuk bersenang-senang dan menguji ingatan Anda. Ikuti pola lamp
 Lihat seberapa jauh anda dapat dapat bertahan, semakin tinggi level yang dicapai menunjukan daya ingatan memang kuat
 
 ## Technologies
-- ![Jquery](images/Jquery.png) [Jquery](https://jquery.com/)
+- ![jQuery](images/Jquery.png) [jQuery](https://jquery.com/)
 
 ## Launch
 
