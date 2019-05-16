@@ -9,7 +9,7 @@
 - _[Credit](#credit)_
 
 ## About The Project
-> :information_source: _This repo created only for study purpose_
+> :information_source: _Repo ini dibuat hanya untuk tujuan pembelajaran_
 
 ## The Project Aim
 Game ini dibuat untuk bersenang-senang dan menguji ingatan Anda. Ikuti pola lampu dan suara lalu ulangi kombinasi yang sama untuk melanjutkan ke level berikutnya.
