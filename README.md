@@ -9,7 +9,8 @@
 - _[Credit](#credit)_
 
 ## About The Project
-> :information_source: _Repo ini dibuat hanya untuk tujuan pembelajaran_
+> :information_source: _Repo ini dibuat hanya untuk tujuan pembelajaran_ </br>
+> :information_source: _Tugas Softskill 3ia11_
 
 ## The Project Aim
 Game ini dibuat untuk bersenang-senang dan menguji ingatan Anda. Ikuti pola lampu dan suara lalu ulangi kombinasi yang sama untuk melanjutkan ke level berikutnya.
