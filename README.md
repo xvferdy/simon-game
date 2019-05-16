@@ -9,7 +9,7 @@
 - _[Credit](#credit)_
 
 ## About The Project
-> :information_source: _Repo ini dibuat hanya untuk tujuan pembelajaran_ </br></br>
+> :information_source: _Repo ini dibuat hanya untuk tujuan pembelajaran_</br>
 :information_source: _Tugas Softskill 3ia11_
 
 ## The Project Aim
