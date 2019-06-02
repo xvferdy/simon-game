@@ -1,4 +1,4 @@
-##  In Progress :construction_worker:
+
 # Simon Game
 
 ## :round_pushpin:Table of contents
