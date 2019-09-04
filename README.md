@@ -15,7 +15,7 @@
 ## The Project Aim
 Game ini dibuat untuk bersenang-senang dan menguji ingatan Anda. Ikuti pola lampu dan suara lalu ulangi kombinasi yang sama untuk melanjutkan ke level berikutnya.
 
-Lihat seberapa jauh anda dapat dapat bertahan, semakin tinggi level yang dicapai menunjukan daya ingatan anda memang kuat :thumbsup:
+Lihat seberapa jauh anda dapat bertahan, semakin tinggi level yang dicapai menunjukan daya ingatan anda memang kuat :thumbsup:
 
 ## Technologies
 - ![jQuery](images/Jquery.png) [jQuery](https://jquery.com/)
